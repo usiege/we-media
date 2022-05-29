@@ -46,12 +46,3 @@
 
 ### AE法术特效（插件）
 > 魔兽法术特效
-
-![ae.gif-5422.9kB][2]
-
-
-
-
-
-
-[2]: http://static.zybuluo.com/usiege/rw7941ry5amcj5uc64c8dqa7/ae15sec.gif
