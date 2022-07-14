@@ -28,21 +28,3 @@
 ### YouTube
 > 与上条同步发送
 - [YouTuBe upload](https://github.com/tokland/youtube-upload)
-
-
-## 抖音号（WoWCube）
-
-> 定位：魔兽相关【游戏】
-
-> 内容：WoW + 弧光大作战
-
-### 插件包更新
-> 黑盒工坊分享码： 
-
-### 弧光大作战
-> 未开始
-
-
-
-### AE法术特效（插件）
-> 魔兽法术特效
