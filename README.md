@@ -28,3 +28,10 @@
 ### YouTube
 > 与上条同步发送
 - [YouTuBe upload](https://github.com/tokland/youtube-upload)
+
+
+## WowCube
+
+
+## 艾泽拉斯日常
+
